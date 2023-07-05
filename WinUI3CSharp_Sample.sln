@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinUI3CSharp_Sample", "WinUI3CSharp_Sample\WinUI3CSharp_Sample.csproj", "{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9250949D-93EB-4D33-BF16-2A2E10B7330A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|ARM64.Build.0 = Debug|ARM64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|x64.ActiveCfg = Debug|x64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|x64.Build.0 = Debug|x64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|x64.Deploy.0 = Debug|x64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|x86.ActiveCfg = Debug|x86
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|x86.Build.0 = Debug|x86
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Debug|x86.Deploy.0 = Debug|x86
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|ARM64.ActiveCfg = Release|ARM64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|ARM64.Build.0 = Release|ARM64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|ARM64.Deploy.0 = Release|ARM64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|x64.ActiveCfg = Release|x64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|x64.Build.0 = Release|x64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|x64.Deploy.0 = Release|x64
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|x86.ActiveCfg = Release|x86
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|x86.Build.0 = Release|x86
+		{0B80AEE0-532A-43ED-A66A-EAF70333FA0A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B014DEF-58A6-4381-BECC-FE6439ED2FAE}
+	EndGlobalSection
+EndGlobal
